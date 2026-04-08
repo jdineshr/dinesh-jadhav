@@ -1,9 +1,9 @@
   # Hi 👋 I'm Dinesh Jadhav
-### Data Analyst | SQL | Python | Power BI | Excel
+### Data Analyst | SQL | Power BI | Excel | Tableau | Python
 
 - 🎓 Master's in Information Technology  
-- 📊 I convert raw data into meaningful insights  
-- 🛠️ Skills: SQL (Joins, CTEs, Window Functions) • Python (Pandas, NumPy, Matplotlib, Seaborn) • Power BI (DAX, Data Modeling) • Excel (Pivot Tables, Power Query)
-- 📊 Projects: Sales Performance Dashboard, Bank Loan Analysis 
-- 📚 Currently working on: Automated Dashboard Projects, End-to-End Kaggle Case Studies  
+- 📊 Solving Business Problems with Data 
+- 🛠️ Skills: SQL (Joins, CTEs, Window Functions) • Power BI (DAX, Data Modeling) • Excel (Pivot Tables, Power Query) • Python (Pandas, NumPy, Matplotlib, Seaborn)
+- 📊 Projects: Swiggy Sales Analysis, Bank Loan Analysis Dashboard, Ecommerce Sales Performance Dashboard, Electric Vehicle Analysis 
+- 📚 Currently working on: Python Analysis Projects 
 - 📬 Reach me at: jdineshr49@gmail.com
